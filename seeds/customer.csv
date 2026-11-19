@@ -1,0 +1,51 @@
+cust_id,name,address,phone_number,postal_code,country,email,father_name,mother_name,occupation,education,nationality
+C0001,Bimala Dahal,"251-B, Biratnagar",9812458591,48698,Nepal,bimala.dahal1@yahoo.com,Bikash Dahal,Suman Dahal,Teacher,+2,Nepali
+C0002,Jagat Bhattarai,"239-E, Bhaktapur",9844335942,52590,Nepal,jagat.bhattarai2@gmail.com,Bikash Bhattarai,Gita Bhattarai,Nurse,SLC,Nepali
+C0003,Wangchu Thapa,"604-C, Butwal",978090293,32298,Nepal,wangchu.thapa3@yahoo.com,Isha Thapa,Puja Thapa,Police Officer,SLC,Nepali
+C0004,Tara Ghimire,"105-A, Birgunj",966770619,49565,Nepal,tara.ghimire4@gmail.com,Om Ghimire,Pemba Ghimire,Government Officer,+2,Nepali
+C0005,Sita Bhandari,"550-A, Butwal",985918715,51198,Nepal,sita.bhandari5@yahoo.com,Chhatra Bhandari,Roshan Bhandari,Professor,Primary,Nepali
+C0006,Arjun Joshi,"722-A, Bhaktapur",962338687,25256,Nepal,arjun.joshi6@gmail.com,Deepa Joshi,Usha Joshi,Software Engineer,Master's,Nepali
+C0007,Hari Pandey,"855-C, Nepalgunj",964514944,53920,Nepal,hari.pandey7@yahoo.com,Tara Pandey,Lila Pandey,Teacher,Diploma,Nepali
+C0008,Tara Koirala,"624-B, Pokhara",978755439,34867,Nepal,tara.koirala8@gmail.com,Furmaan Koirala,Chiranjibi Koirala,Accountant,Master's,Nepali
+C0009,Tara Dhakal,"225-C, Hetauda",971538552,30673,Nepal,tara.dhakal9@yahoo.com,Bimala Dhakal,Wangchu Dhakal,Army Officer,SLC,Nepali
+C0010,Himal Lama,"966-E, Damak",979375710,35928,Nepal,himal.lama10@gmail.com,Ganesh Lama,Om Lama,Professor,Diploma,Nepali
+C0011,Chiranjibi Sharma,"253-E, Lalitpur",9818187926,48242,Nepal,chiranjibi.sharma11@yahoo.com,Kamala Sharma,Sita Sharma,Accountant,PhD,Nepali
+C0012,Himal Oli,"506-A, Hetauda",983564251,51120,Nepal,himal.oli12@gmail.com,Puja Oli,Janak Oli,Police Officer,SLC,Nepali
+C0013,Laxmi Bhandari,"66-D, Janakpur",9845218028,46256,Nepal,laxmi.bhandari13@yahoo.com,Furmaan Bhandari,Jagat Bhandari,Government Officer,Secondary,Nepali
+C0014,Aarav Acharya,"907-E, Nepalgunj",9816707197,17310,Nepal,aarav.acharya14@gmail.com,Roshan Acharya,Indira Acharya,Police Officer,PhD,Nepali
+C0015,Uma Rai,"977-C, Kathmandu",9842785277,50979,Nepal,uma.rai15@yahoo.com,Laxmi Rai,Lila Rai,Accountant,Bachelor's,Nepali
+C0016,Vijay Silwal,"204-B, Janakpur",9849897858,10037,Nepal,vijay.silwal16@gmail.com,Bimala Silwal,Priya Silwal,Farmer,Bachelor's,Nepali
+C0017,Yam Neupane,"952-C, Pokhara",971971823,25785,Nepal,yam.neupane17@yahoo.com,Nirajan Neupane,Bikash Neupane,Professor,PhD,Nepali
+C0018,Usha Chaudhary,"836-A, Butwal",978973915,46031,Nepal,usha.chaudhary18@gmail.com,Gita Chaudhary,Roshan Chaudhary,Police Officer,Bachelor's,Nepali
+C0019,Laxmi Lama,"988-B, Dharan",9816229731,36148,Nepal,laxmi.lama19@yahoo.com,Ravi Lama,Yam Lama,Professor,Master's,Nepali
+C0020,Devi Basnet,"530-D, Damak",972074176,32156,Nepal,devi.basnet20@gmail.com,Deepa Basnet,Kusum Basnet,Doctor,Master's,Nepali
+C0021,Bikash Upreti,"226-A, Janakpur",972130789,12058,Nepal,bikash.upreti21@yahoo.com,Tulsi Upreti,Puja Upreti,Doctor,SLC,Nepali
+C0022,Binod Chaudhary,"686-D, Biratnagar",9818930103,25925,Nepal,binod.chaudhary22@gmail.com,Priya Chaudhary,Rajesh Chaudhary,Banker,Bachelor's,Nepali
+C0023,Mukesh Bhandari,"100-D, Pokhara",9858835373,13550,Nepal,mukesh.bhandari23@yahoo.com,Isha Bhandari,Nisha Bhandari,Farmer,Primary,Nepali
+C0024,Furmaan Basnet,"413-C, Kathmandu",974214348,22465,Nepal,furmaan.basnet24@gmail.com,Chiranjibi Basnet,Hari Basnet,Police Officer,+2,Nepali
+C0025,Sunita Sharma,"286-D, Lalitpur",9852642635,13315,Nepal,sunita.sharma25@yahoo.com,Janak Sharma,Jagat Sharma,Banker,+2,Nepali
+C0026,Chiranjibi Thapa,"772-B, Damak",9859075854,24008,Nepal,chiranjibi.thapa26@gmail.com,Aarav Thapa,Gita Thapa,Teacher,Primary,Nepali
+C0027,Himal Joshi,"3-D, Dharan",968096887,55651,Nepal,himal.joshi27@yahoo.com,Dipesh Joshi,Laxmi Joshi,Merchant,Secondary,Nepali
+C0028,Roshan Bhandari,"499-B, Dhangadhi",971981186,47957,Nepal,roshan.bhandari28@gmail.com,Tulsi Bhandari,Devi Bhandari,Banker,PhD,Nepali
+C0029,Suman Thapa,"59-A, Birgunj",9849910817,20317,Nepal,suman.thapa29@yahoo.com,Dipesh Thapa,Suman Thapa,Nurse,Secondary,Nepali
+C0030,Dipesh Tamang,"610-A, Pokhara",9853011363,47334,Nepal,dipesh.tamang30@gmail.com,Gita Tamang,Mohan Tamang,Business Owner,Master's,Nepali
+C0031,Rajesh Upreti,"84-D, Janakpur",964426900,53891,Nepal,rajesh.upreti31@yahoo.com,Yam Upreti,Chhatra Upreti,Business Owner,Diploma,Nepali
+C0032,Yamuna Neupane,"135-C, Dharan",981156287,40034,Nepal,yamuna.neupane32@gmail.com,Rajesh Neupane,Sita Neupane,Engineer,Diploma,Nepali
+C0033,Arjun Upreti,"219-E, Hetauda",962154126,26009,Nepal,arjun.upreti33@yahoo.com,Hari Upreti,Ganesh Upreti,Merchant,Bachelor's,Nepali
+C0034,Deepa Magar,"557-C, Itahari",9816022741,53475,Nepal,deepa.magar34@gmail.com,Laxmi Magar,Kusum Magar,Nurse,SLC,Nepali
+C0035,Hari Joshi,"912-A, Pokhara",965727085,49638,Nepal,hari.joshi35@yahoo.com,Janak Joshi,Sita Joshi,Lawyer,Bachelor's,Nepali
+C0036,Om Koirala,"650-C, Nepalgunj",961852264,16048,Nepal,om.koirala36@gmail.com,Binod Koirala,Om Koirala,Accountant,Secondary,Nepali
+C0037,Bimala Rai,"342-B, Kathmandu",978412769,46154,Nepal,bimala.rai37@yahoo.com,Tara Rai,Chhatra Rai,Business Owner,PhD,Nepali
+C0038,Yamuna Rai,"78-B, Pokhara",963484601,38166,Nepal,yamuna.rai38@gmail.com,Tulsi Rai,Aarav Rai,Accountant,SLC,Nepali
+C0039,Janak Bhattarai,"956-A, Damak",975186414,53708,Nepal,janak.bhattarai39@yahoo.com,Vijay Bhattarai,Deepa Bhattarai,Professor,Diploma,Nepali
+C0040,Hari Oli,"896-D, Damak",973726327,21603,Nepal,hari.oli40@gmail.com,Dorje Oli,Tulsi Oli,Nurse,Bachelor's,Nepali
+C0041,James Thomas,"686-B, Bharatpur",9812813543,35070,British,james.thomas41@yahoo.com,Emma Thomas,Henry Thomas,Merchant,Bachelor's,British
+C0042,Kavita Gupta,"313-B, Birgunj",9814240180,36113,Indian,kavita.gupta42@gmail.com,Sunita Gupta,Kavita Gupta,Banker,SLC,Indian
+C0043,Robert Johnson,"522-D, Nepalgunj",982935113,27118,American,robert.johnson43@yahoo.com,Robert Johnson,Jessica Johnson,Business Owner,Diploma,American
+C0044,Hao Wang,"747-C, Birgunj",9854188992,26693,Chinese,hao.wang44@gmail.com,Fang Wang,Xiao Wang,Government Officer,+2,Chinese
+C0045,Rohit Patel,"72-C, Dharan",9813090865,29681,Indian,rohit.patel45@yahoo.com,Sunita Patel,Ananya Patel,Nurse,Diploma,Indian
+C0046,Noah Scott,"303-E, Dhangadhi",9857361002,54388,Australian,noah.scott46@gmail.com,Zoe Scott,Oliver Scott,Teacher,Master's,Australian
+C0047,Hao Huang,"216-D, Biratnagar",9858411939,38977,Chinese,hao.huang47@yahoo.com,Wei Huang,Hao Huang,Police Officer,Diploma,Chinese
+C0048,Ying Zhang,"680-E, Hetauda",976207974,24722,Chinese,ying.zhang48@gmail.com,Fang Zhang,Hao Zhang,Farmer,+2,Chinese
+C0049,Lin Wang,"626-A, Butwal",9814262081,55636,Chinese,lin.wang49@yahoo.com,Wei Wang,Jing Wang,Engineer,Primary,Chinese
+C0050,Alice Martin,"705-A, Nepalgunj",9854671545,21526,British,alice.martin50@gmail.com,Olivia Martin,William Martin,Professor,+2,British

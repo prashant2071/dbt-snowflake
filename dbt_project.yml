@@ -37,3 +37,12 @@ models:
     marts:                   # models/marts/*    -> BANKING_DATA.GOLD
       +schema: gold
       +materialized: table
+
+seeds:
+  snowflow_proj:
+    +schema: raw_seed
+
+snapshots:
+  snowflow_proj:
+    +schema: gold
+

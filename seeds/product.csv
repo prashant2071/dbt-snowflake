@@ -1,0 +1,16 @@
+product_id,schm_type,schm_code,product_desc
+PRD001,SA,SAV001,Regular Savings Account
+PRD002,SA,SAV002,Premium Savings Account
+PRD003,SA,SAV003,Junior Savings Account
+PRD004,CA,CUR001,Individual Current Account
+PRD005,CA,CUR002,Business Current Account
+PRD006,FD,FXD001,Fixed Deposit 3 Months
+PRD007,FD,FXD002,Fixed Deposit 6 Months
+PRD008,FD,FXD003,Fixed Deposit 12 Months
+PRD009,FD,FXD004,Fixed Deposit 24 Months
+PRD010,RD,REC001,Recurring Deposit Monthly
+PRD011,RD,REC002,Recurring Deposit Quarterly
+PRD012,LD,LON001,Personal Loan Account
+PRD013,LD,LON002,Home Loan Account
+PRD014,LD,LON003,Business Loan Account
+PRD015,LD,LON004,Hire Purchase Loan
