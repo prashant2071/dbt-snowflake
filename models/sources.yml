@@ -1,0 +1,26 @@
+version: 2
+
+sources:
+  - name: RAW
+    database: BANKING_DATA
+    schema: RAW
+    description: "Raw banking data loaded from S3 (s3://snowbucketd/banking_csv/CSV FILES/)"
+
+    tables:
+      - name: CUSTOMER
+        description: "Raw customer data (KYC / demographic master)"
+
+      - name: BRANCH
+        description: "Raw branch data"
+
+      - name: PRODUCT
+        description: "Raw product / scheme data"
+
+      - name: ACCOUNT
+        description: "Raw account data"
+
+      - name: CARD
+        description: "Raw card data"
+
+      - name: HIST_TRANSACTIONAL
+        description: "Raw transaction history data"

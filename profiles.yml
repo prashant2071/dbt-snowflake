@@ -1,0 +1,13 @@
+snowflow_proj:
+  target: snowflake          # which output `dbt run` uses by default
+  outputs:
+    snowflake:
+      type: snowflake
+      account: "{{ env_var('SNOWFLAKE_ACCOUNT') }}"     # e.g. sm34076.ap-south-1.aws
+      user: "{{ env_var('SNOWFLAKE_USER') }}"
+      password: "{{ env_var('SNOWFLAKE_PASSWORD') }}"   # never write the real password here
+      role: ACADEMY_ROLE
+      warehouse: COMPUTE_WH
+      database: BANKING_DATA
+      schema: RAW
+      threads: 4
